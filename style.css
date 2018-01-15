@@ -51,8 +51,12 @@ main {
 .slider {
 	float: left;
 	width: 60%;
-
-
+}
+.btn-wrapper {
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+    margin: 0 auto;
 }
 .product__info {
 	float: right;
